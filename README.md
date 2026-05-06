@@ -75,9 +75,9 @@ I create smart systems to **save time & increase productivity**.
 </td> 
 
 <td align="center" width="96"> 
-<img src="https://n8n.io/images/n8n-logo.png" width="48" height="48"/> 
+<img src="https://skillicons.dev/icons?i=n8n" width="48" height="48"/> 
 <br>n8n 
-</td> 
+</td>
 
 <td align="center" width="96"> 
 <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" width="48" height="48"/> 
