@@ -75,7 +75,7 @@ I create smart systems to **save time & increase productivity**.
 </td> 
 
 <td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=n8n" width="48" height="48"/> 
+<img src="https://cdn.simpleicons.org/n8n" width="48" height="48"/> 
 <br>n8n 
 </td>
 
